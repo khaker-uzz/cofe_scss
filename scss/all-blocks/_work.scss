@@ -1,0 +1,36 @@
+.work .container {
+    background-color: #2C343E;
+    display: flex;
+    border-radius: 10px;
+    align-items: center;
+    height: 450px;
+    margin-top: 182px;
+
+
+    .work__h3 {
+        color: #FEFCF7;
+        font-family: "Fraunces";
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 48px;
+        margin-top: -20px;
+        margin-left: 50px;
+    }
+
+    .work__text {
+        width: 540px;
+        color: #FEFCF7;
+        font-family: "Barlow";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        margin-left: 50px;
+    }
+
+    .Wort__img {
+        margin-left: 200px;
+        margin-top: -150px;
+    }
+}

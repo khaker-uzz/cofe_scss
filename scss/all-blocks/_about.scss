@@ -1,0 +1,42 @@
+.about {
+
+
+    .about__list {
+        display: flex;
+        gap: 200px;
+        list-style: none;
+        margin-left: 80px;
+        margin-top: 80px;
+
+    }
+
+    .about__h4 {
+        color: #83888F;
+        font-family: "Fraunces";
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+        margin-top: 200px;
+        margin-left: 120px;
+    }
+
+    .about__h4__1 {
+        color: #333D4B;
+        font-family: "Fraunces";
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 36px;
+    }
+
+    .about__text {
+        width: 120px;
+        color: #333D4B;
+        font-family: "Barlow";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+    }
+}

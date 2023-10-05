@@ -1,0 +1,30 @@
+.humos {
+    .container {
+        display: flex;
+        margin-top: 168px;
+        padding-left: 80px;
+    }
+
+    .humos__h2 {
+        color: #333D4B;
+        font-family: "Fraunces";
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 48px;
+        margin-top: 100px;
+    }
+
+    .humos__text {
+        width: 600px;
+        color: #333D4B;
+        font-family: "Barlow";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+    }
+    .humos__divv {
+        margin-left: 125px;
+    }
+}
